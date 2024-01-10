@@ -1,0 +1,103 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "43d0379f-7a1f-4cdb-b03f-2df16b8112a4",
+      "favorite": {
+        "name": "swarnalee paul"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://localhos swarnalee paul/"
+      }
+    },
+    {
+      "id": "69b6fa04-0ae0-4f84-9b91-eebb17c09d95",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1703189127164"
+        }
+      },
+      "favorite": {
+        "name": "sp"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://whiteWolff:praduman@cluster0.an8uy3k.mongodb.net/ERS?retryWrites=true&w=majority",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "94918e23-313a-4efe-95f0-5d8f12d64b4b",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1704859134046"
+        }
+      },
+      "favorite": {
+        "name": "placement_cell"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "d3aa1010-4145-4211-b785-811e8ba4c848",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1703189005674"
+        }
+      },
+      "favorite": {
+        "name": "hospital-db"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "d49ca35b-4477-4a77-a04f-8f92cdba5992",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1703186403520"
+        }
+      },
+      "favorite": {
+        "name": "web codieal",
+        "color": "color3"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "dcfaee2c-a9a2-4360-a3c6-beb12749a735",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1703189110283"
+        }
+      },
+      "favorite": {
+        "name": "ers"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
